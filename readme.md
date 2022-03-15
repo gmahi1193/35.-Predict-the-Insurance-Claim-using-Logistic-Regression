@@ -1,0 +1,1 @@
+This project gives idea about baseline classification model.
